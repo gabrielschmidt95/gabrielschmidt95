@@ -16,14 +16,13 @@ In my search for knowledge, today I develop international projects with companie
 
 Infra:
  - AWS Serverless Systems
- - Azure DevOps
+ - Kubernets
+ - Terraform
 
 Technologies:
  - Python
  - Ruat
  - Golang
- - Terraform
- - Kubernets
  - Cloud Computing
  - Kakfa
  - gRPC
