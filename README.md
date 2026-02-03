@@ -11,7 +11,6 @@ From developments in embedded devices to complex data systems.
 
 In my search for knowledge, today I develop international projects with companies from all over the world.
 
-- 🔭 I’m currently living and working in Lisbon/Portugal.
 - 📫 How to reach me: on [LinkedIn](https://www.linkedin.com/in/gabriel-schmidt-987b15161).
 - 🌱 I’m currently learning Microservices with Serveless Applications.
 
@@ -21,7 +20,10 @@ Infra:
 
 Technologies:
  - Python
- - C++
- - JavaScript
- - Flutter
- - OpenCV
+ - Ruat
+ - Golang
+ - Terraform
+ - Kubernets
+ - Cloud Computing
+ - Kakfa
+ - gRPC
